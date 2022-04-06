@@ -6,3 +6,5 @@ x = 2+2
 print(x)
 y = 5*4
 print(y)
+z = 4**2
+print(z)
